@@ -1,3 +1,3 @@
 # THE CAT SURVEY
 
-# Tribute to a Restaurant Guide.
+# Tribute to a restaurant guide.
