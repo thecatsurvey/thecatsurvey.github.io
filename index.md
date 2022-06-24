@@ -2,4 +2,4 @@
 
 # Tribute to a restaurant guide.
 
-[1 Purpose](https://thecatsurvey/01purpose/index.md)
+[1 Purpose](https://thecatsurveygithub.io/01purpose)
