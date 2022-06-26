@@ -1,4 +1,4 @@
-## The Cat Survey
+## Read reviews from the Cat Survey
 
 You can use the [editor on GitHub](https://github.com/thecatsurvey/thecatsurvey.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
